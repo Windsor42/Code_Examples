@@ -1,6 +1,6 @@
 import urllib.request, urllib.parse, urllib.error
 
-fhand = 'I am a little fat girl with pig tails and a skirt'
+fhand = 'Insert text here'
 print(fhand)  #fhand is a local memory area where the data from the url now is local on your computer
 for line in fhand:      #and we can do whatever we want with it now
     print(line.strip())
