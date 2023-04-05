@@ -5,4 +5,5 @@ while True: #this means the while questions is always true and will continue to 
     if line == 'done': #if the string is == 'done' we proc the break and exit the loop
         break
     print(line) #otherise the loop is continued in this function 
-print('Done!')
+print('done!')
+
